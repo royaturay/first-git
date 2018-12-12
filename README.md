@@ -1,4 +1,4 @@
-## 文字大小
+# 文字大小
 ```
 # first-git
 
@@ -24,15 +24,45 @@
 
 ###### first-git
 
-## LIST
+
+```
+This is an H1
+=============
+
+This is an H2
+-------------
+```
+This is an H1
+=============
+
+This is an H2
+-------------
+
+
+# LISTh
+
 *   Red
 *   Green
 *   Blue
-
+```
+*   Red
+*   Green
+*   Blue
+```
+```
+1.  Bird
+2.  McHale
+3.  Parish
+```
 1.  Bird
 2.  McHale
 3.  Parish
 
+```
+-   Red
+-   Green
+-   Blue
+```
 -   Red
 -   Green
 -   Blue
