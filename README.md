@@ -39,16 +39,17 @@ This is an H2
 -------------
 
 
-# LISTh
+# LIST
 
-*   Red
-*   Green
-*   Blue
 ```
 *   Red
 *   Green
 *   Blue
 ```
+*   Red
+*   Green
+*   Blue
+
 ```
 1.  Bird
 2.  McHale
@@ -80,28 +81,51 @@ This is an H2
 <li>Parish</li>
 </ol>
 
+# 加入連結
+```
+This is [an example](http://example.com/ "Title") inline link.
 
+[This link](http://example.net/) has no title attribute.
+```
 This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
 
+
+```
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+```
+轉成
 Here is an example of AppleScript:
 
     tell application "Foo"
         beep
     end tell
 
+```
 ``There is a literal backtick (`) here.``
-
+```
+``There is a literal backtick (`) here.``
+```
+Use the `printf()` function.
+```
 Use the `printf()` function.
 
 
-This is a regular paragraph.
 
+```
 <table>
     <tr>
         <td>Foo</td>
     </tr>
 </table>
-
-This is another regular paragraph.
+```
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
