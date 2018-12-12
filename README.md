@@ -129,3 +129,34 @@ Use the `printf()` function.
         <td>Foo</td>
     </tr>
 </table>
+
+```
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+```
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+- () This is an incomplete item
+- () This is an incomplete item
+
